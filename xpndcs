@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Próximamente</title>
+  <style>
+    body {
+      background-image: url('https://imgur.com/a/T0vlRXj');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+    }
+  </style>
+</head>
+<body>
+</body>
+</html>
